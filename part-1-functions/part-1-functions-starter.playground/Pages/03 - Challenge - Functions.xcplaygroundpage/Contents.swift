@@ -13,6 +13,9 @@
 */
 
 // TODO: Write solution here
+func combine(_ text1: String, _ text2: String) -> String {
+    return text1 + " " + text2
+}
 
-
+combine("Arroz", "Feijao")
 //: [⇒ Next: 04 - Overloading](@next)
